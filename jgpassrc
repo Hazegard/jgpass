@@ -1,0 +1,49 @@
+stay_alive          = 0
+#hi wde_on_startup     = 0
+#csv_cmd             = pmenu
+tint2_look          = 0
+at_pointer          = 1
+terminal_exec       = terminator
+#terminal_args       = -e
+#monitor             = 0
+#hover_delay	     = 100
+#hide_back_items     = 1
+#columns             = 1
+#tabs	             = 120
+
+menu_margin_x       = 0
+menu_margin_y       =  24
+menu_width          = 100
+#menu_height_min     = 0
+#menu_height_max     = 0
+#menu_height_mode    = static
+menu_padding_top    = 5
+menu_padding_right  = 5
+menu_padding_bottom = 5
+menu_padding_left   = 5
+menu_halign         = left
+menu_valign         = top
+
+item_radius         = 2
+item_border         = 1
+
+sub_spacing         = 0
+sub_padding_top     = auto
+sub_padding_right   = auto
+sub_padding_bottom  = auto
+sub_padding_left    = auto
+sub_hover_action = 1
+
+
+font		    = Roboto Condensed 9
+# icon_theme	    = Suru++-Dark
+
+color_menu_bg       = #222222 100
+color_menu_border   = #222222 100
+
+color_norm_fg       = #eeeeee 100
+
+color_sel_bg        = #555555 100
+color_sel_fg        = #eeeeee 100
+color_sel_border    = #888888 100
+
